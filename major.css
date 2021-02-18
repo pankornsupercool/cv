@@ -5,3 +5,26 @@
     border-radius: 10px;
     border: none;
 }
+.hr_1{
+    border-style: none;
+    border-top-style: dotted;
+    width: 70%;
+    border-width: 10px;
+    border-color: azure;
+    opacity: 0.5;
+
+}
+
+.hr_2{
+    border-style: none;
+    border-top-style: dotted;
+    width: 50%;
+    border-width: 10px;
+    border-color: azure;
+    opacity: 0.5;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
